@@ -3,3 +3,6 @@ numpy
 ipykernel
 jupyterlab
 matplotlib
+seaborn
+pip
+voila
